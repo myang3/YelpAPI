@@ -45,7 +45,7 @@ namespace YelpAPI
         /// Token used for OAuth authentication.
         /// This must be set by the user.
         /// </summary>
-        private const string TOKEN = "ZJjRLqBrsnMOAU5GFYc4 - qwR_F6mmFaH";
+        private const string TOKEN = "ZJjRLqBrsnMOAU5GFYc4-qwR_F6mmFaH";
 
         /// <summary>
         /// Token secret used for OAuth authentication.
